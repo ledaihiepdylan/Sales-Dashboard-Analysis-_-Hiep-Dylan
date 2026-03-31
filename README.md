@@ -44,6 +44,8 @@ Or full historical data
 
 ### 📊 2. Overview Page
 
+![image_alt](https://github.com/ledaihiepdylan/Sales-Dashboard-Analysis-_-Hiep-Dylan/blob/152c2b218c6838ee42495490676be076572e70eb/Dashboard/Overview.jpg)
+
 🎯 Objective:
 Provide a high-level view of overall system performance
 
@@ -65,14 +67,22 @@ Shop Name (top-performing stores)
 Quickly monitor overall performance
 Detect anomalies such as drops or spikes in key metrics
 
-### 🌍 Page 2: Map – Geographic Analysis
+### 🌍 Page 2: Geographic Analysis
 
-🎯 Objective
+![image_alt](https://github.com/ledaihiepdylan/Sales-Dashboard-Analysis-_-Hiep-Dylan/blob/152c2b218c6838ee42495490676be076572e70eb/Dashboard/Map.jpg)
 
-The Map page enables geographic performance analysis of users at the region/country level, allowing stakeholders to:
+### Plus plan
 
-Identify high-potential markets for growth
-Detect regions with high churn rates
-Compare user behavior across different countries
+![image_alt](https://github.com/ledaihiepdylan/Sales-Dashboard-Analysis-_-Hiep-Dylan/blob/152c2b218c6838ee42495490676be076572e70eb/Dashboard/Plus%20plan%20analysis.jpg)
+🔝 Top Markets by Install Volume
 
-👉 This supports data-driven market expansion decisions and localized user strategy optimization
+* Vietnam
+* United States
+* India
+
+💡 However, the key issue lies in user quality rather than volume. For example, in Vietnam, although the number of installs is high, the number of paid users remains relatively low (991) while churn is significantly high (3,887). This indicates that despite strong user acquisition, the market suffers from low user quality, with poor conversion to paid users and high drop-off rates.
+
+👉 In markets such as the UK and Canada, users are more likely to subscribe to high-tier plans, particularly Shopify Plus. Meanwhile, the United States has the highest number of Shopify Plus users (~70).  Tier 1 countries demonstrate a higher willingness to pay, with stronger performance in premium plan adoption and overall monetization efficiency. This supports data-driven market expansion decisions and localized user strategy optimization
+
+### Detail
+![image_alt](https://github.com/ledaihiepdylan/Sales-Dashboard-Analysis-_-Hiep-Dylan/blob/152c2b218c6838ee42495490676be076572e70eb/Dashboard/Detail.jpg)
